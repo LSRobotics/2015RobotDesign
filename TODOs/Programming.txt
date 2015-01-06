@@ -1,0 +1,24 @@
+TODO for Programming Team:
+==========================
+
+1. Computer Vision
+  a. Decide what libraries to use
+    i. OpenCV
+    ii. Roborealm
+    iii. FIRST implementation
+  b. Decide role of Computer Vision
+    i. Only for Auto?
+    ii. Help with stacking?
+
+2. Organization of Code
+  a. class Robot.java
+    i. public void robotInit()
+    ii. public void autonomousPeriodic()
+    iii. public void teleopPeriodic()
+    iv. testPeriodic()
+  b. interface IPickup.java
+    i. private enum Obj {tote, bin}
+    ii. public boolean ready()
+    iii. public void init()
+    iv. public void grab(Obj type)
+    v. public void drop()

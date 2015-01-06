@@ -1,0 +1,7 @@
+TODO For Build Team:
+====================
+
+1. Assemble chasis
+2. Put guards for metal shavings/dust
+
+ ...general tasks that relate to the actual building of the Robot

@@ -1,0 +1,12 @@
+Grabbing Mechanism: Forklift
+
+Reasons:
+  -Simple
+  -Easy to implement
+
+
+DriveTrain: Mecanum Wheels
+
+Reasons:
+  -Greater Mobility
+  -Easier to move quickly around tight corners
