@@ -9,4 +9,4 @@ Users can easily request changes (commits), or start their own branches.
 <br/>
 -When an addition is finished or the alternate design accepted, the branch can be merged with the main (master) branch.
 <br/>
-Also Keeps track of the responsibilities/todos of the
+Also Keeps track of the responsibilities/todos of the different subteams
