@@ -1,7 +1,20 @@
-Example
-======
+Strategy:
+=========
 
-Goals:
- -Focus on delivering totes to other robots to stack
- -Prioritize speed
- -1 tote at a time
+Autonomous mode:
+
+
+Telop: Focus on bins, makes us a more attractive alliance member
+  a.Beginning
+    i. Get as many bins as possible
+  b.During Match
+    ii. Totes already stacked?
+      1. Yes-
+        a. Focus on adding bins to the top of those stacks
+        b. Continue bins for the rest of the match
+      2. No-
+        a. Stack totes
+        b. Continue stacking bins
+
+Primary: Bins
+Secondary: Stacking/dealing with totes
